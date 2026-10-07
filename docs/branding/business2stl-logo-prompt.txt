@@ -1,0 +1,9 @@
+Generated with the built-in imagegen tool, transparent_background=true.
+
+Use case: logo-brand
+Asset type: transparent symbol for the header of business2stl, a browser tool for designing business cards and exporting printable STL files.
+Primary request: create one distinctive, polished, compact logo mark: a slightly angled horizontal business card with a bold emerald green face, a simple contact identity rendered as two clean negative-space strokes on the left and a compact abstract QR-inspired geometric motif on the right. Its visible lower edge should consist of two offset solid bands suggesting 3D printed layers. Integrate the card and its printed edge into one coherent silhouette.
+Style/medium: precise flat vector-like graphic, clean geometric shapes, subtly rounded corners, restrained professional utility-tool identity.
+Composition/framing: one centered standalone icon on a square canvas, tightly framed with about 8 percent transparent margin. Wider than tall, roughly 1.3:1 overall symbol ratio. Slight axonometric perspective, prominent readable card face.
+Color palette: emerald green #04a96b and mint green #4fd29a, with darker green #037a4d for the print edge. Actual transparent cutouts for the contact strokes and abstract QR motif so it works on both white and charcoal #1a2328 backgrounds.
+Constraints: actual transparent background. Icon must remain clear at 28–36 pixels. Use few broad shapes, thick strokes, and large gaps. No text, letters, wordmark, slogan, real QR code, tiny detail, gradient, glow, shadow, mockup, backdrop, frame, surrounding badge, or watermark. Deliver a finished usable logo asset, not a presentation sheet.

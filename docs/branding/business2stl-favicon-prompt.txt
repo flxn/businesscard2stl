@@ -1,0 +1,11 @@
+Generated with the built-in imagegen tool, transparent_background=true.
+Reference image: public/business2stl-logo.png.
+
+Use case: logo-brand
+Asset type: matching favicon for business2stl, optimized for browser tabs at 16 and 32 pixels.
+Input images: Image 1 is the existing business2stl header logo, use it as the identity and palette reference.
+Primary request: simplify the referenced logo into a strong favicon. Preserve the same angled emerald business card silhouette, mint printed-layer edge, dark green lower layer, and slightly rounded corners. Make the card chunkier and nearly square to fill a square favicon canvas. Reduce the interior to one large transparent circular contact cutout on the upper left, one wide transparent short contact stroke beneath it, and one very large transparent square QR finder motif on the right. Eliminate all the scattered small QR squares and all thin details.
+Style/medium: crisp flat vector-like geometric brand mark with solid green fills and bold shapes. Match the reference closely.
+Color palette: emerald #04a96b, mint #4fd29a, dark green #037a4d.
+Composition: one centered icon occupying 90 percent of a square canvas, transparent margin only. All internal gaps are large and genuinely transparent. Design must be identifiable at 16px and 32px.
+Constraints: actual transparent background. No text, letters, wordmark, gradients, shadows, glow, mockup, background square, badge, border, or watermark. Deliver one finished favicon mark.
