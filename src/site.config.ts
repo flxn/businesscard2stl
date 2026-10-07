@@ -77,7 +77,7 @@ const siteConfig: SiteConfig = {
   ],
   analytics: {
     umamiScript: 'https://track.printer.tools/script.js',
-    umamiWebsiteId: '',
+    umamiWebsiteId: '258386d2-ef57-4a9a-99a4-4bcff82d508e',
   },
   ads: {
     client: '',
