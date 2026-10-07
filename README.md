@@ -1,7 +1,7 @@
 # businesscard2stl
 
 Create 3D printable business cards in the browser: choose a layout, fill in your details, add icons,
-a logo and a QR code, and download the STL. Live at https://businesscard.printer.tools.
+a logo and a QR code, and download the STL. Live at https://businesscard2stl.printer.tools.
 
 - **Layouts:** Classic, Split, Accent bar, Centered, Minimal, Monogram, plus style presets for fonts and colors
 - **Content:** name, job title, company, up to six contact lines with icons, built-in logo icons or an uploaded SVG

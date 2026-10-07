@@ -58,8 +58,8 @@ export interface SiteConfig {
 
 const siteConfig: SiteConfig = {
   name: 'Business Card Generator',
-  url: 'https://businesscard.printer.tools/',
-  image: 'https://businesscard.printer.tools/preview.png',
+  url: 'https://businesscard2stl.printer.tools/',
+  image: 'https://businesscard2stl.printer.tools/preview.png',
   filePrefix: 'business-card',
   author: {
     name: 'Felix Stein',
